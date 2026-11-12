@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "titulo": "The Legend of Zelda: Ocarina of Time",
+    "descripcion": "Considerado uno de los mejores juegos de la historia",
+    "imagen": "https://tse4.mm.bing.net/th/id/OIP.CZiEQnqTdI3tMHSxeMjZxQHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "precio": 49.99,
+    "plataforma": "Nintendo 64",
+    "genero": "Aventura"
+  },
+  {
+    "id": 2,
+    "titulo": "The Legend of Zelda: Breath of the Wild",
+    "descripcion": "Revolucionó el mundo abierto en Nintendo Switch",
+    "imagen": "https://tse1.mm.bing.net/th/id/OIP.tQBMLqfq08AUF-5yKbGTZwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "precio": 59.99,
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura / Mundo Abierto"
+  },
+  {
+    "id": 3,
+    "titulo": "Super Mario Bros.",
+    "descripcion": "El clásico que definió la NES y la plataforma moderna",
+    "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/de10961b-5990-4053-b78f-eabbba03ae83/d7ndqiw-9b9e55e3-e573-47c6-bc70-4edfa3b89043.png/v1/fill/w_746,h_1072,q_75,strp/super_mario_bros_nes_cover_by_perrito_gatito-d7ndqiw.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9kZTEwOTYxYi01OTkwLTQwNTMtYjc4Zi1lYWJiYmEwM2FlODMvZDduZHFpdy05YjllNTVlMy1lNTczLTQ3YzYtYmM3MC00ZWRmYTNiODkwNDMucG5nIiwid2lkdGgiOiI8PTc0NiIsImhlaWdodCI6Ijw9MTA3MiJ9XV19.mDrgffJcbbl5h5bVylez77M2zeW_MfJyGdcdDRiYCfg",
+    "precio": 9.99,
+    "plataforma": "NES",
+    "genero": "Plataformas"
+  },
+  {
+    "id": 4,
+    "titulo": "Super Mario 64",
+    "descripcion": "Revolucionó el 3D en Nintendo 64",
+    "imagen": "https://tse2.mm.bing.net/th/id/OIP.tfw8TJMpTWRO6IFQiAaneAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "precio": 39.99,
+    "plataforma": "Nintendo 64",
+    "genero": "Plataformas 3D"
+  },
+  {
+    "id": 5,
+    "titulo": "Mario Kart 64",
+    "descripcion": "Uno de los multijugadores más icónicos",
+    "imagen": "https://tse3.mm.bing.net/th/id/OIP.QnS5fSejnz46Q4Zr2tb1UAHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "precio": 29.99,
+    "plataforma": "Nintendo 64",
+    "genero": "Carreras"
+  },
+  {
+    "id": 6,
+    "titulo": "Pokémon Rojo y Azul",
+    "descripcion": "Fenómeno mundial con más de 31 millones de copias",
+    "imagen": "https://tse3.mm.bing.net/th/id/OIP._ewv_TYHX7YF17sG4gEzNgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "precio": 19.99,
+    "plataforma": "Game Boy",
+    "genero": "RPG"
+  },
+  {
+    "id": 7,
+    "titulo": "Wii Sports",
+    "descripcion": "El juego más vendido de Nintendo con 82.9 millones",
+    "imagen": "https://th.bing.com/th/id/R.c6fed501d8ba277162510a1166cc554d?rik=mzmyHZ0OBhXa8w&pid=ImgRaw&r=0",
+    "precio": 14.99,
+    "plataforma": "Wii",
+    "genero": "Deportes"
+  },
+  {
+    "id": 8,
+    "titulo": "Super Mario Odyssey",
+    "descripcion": "Una de las mejores aventuras 3D de Mario",
+    "imagen": "https://tse3.mm.bing.net/th/id/OIP.CTOEy20lJLXmSB9AW7W7lAHaL8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "precio": 59.99,
+    "plataforma": "Nintendo Switch",
+    "genero": "Plataformas 3D"
+  },
+  {
+    "id": 9,
+    "titulo": "Super Smash Bros. Melee",
+    "descripcion": "Entrega legendaria de GameCube",
+    "imagen": "https://tse3.mm.bing.net/th/id/OIP.zUd8elBFYbTj7Gvx9iGiKgHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "precio": 49.99,
+    "plataforma": "GameCube",
+    "genero": "Peleas"
+  },
+  {
+    "id": 10,
+    "titulo": "The Legend of Zelda: A Link to the Past",
+    "descripcion": "Clásico de SNES",
+    "imagen": "https://tse4.mm.bing.net/th/id/OIP.8gdFIuzhd1DRiWAISEVSxgHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "precio": 19.99,
+    "plataforma": "SNES",
+    "genero": "Aventura"
+  },
+  {
+    "id": 11,
+    "titulo": "Chrono Trigger",
+    "descripcion": "Uno de los mejores JRPG de SNES",
+    "imagen": "https://i.pinimg.com/736x/fb/9d/2f/fb9d2ff13be36fcd41bc9a3051dbb205.jpg",
+    "precio": 29.99,
+    "plataforma": "SNES",
+    "genero": "JRPG"
+  },
+  {
+    "id": 12,
+    "titulo": "Donkey Kong Country 2",
+    "descripcion": "Obra maestra de plataformas en SNES",
+    "imagen": "https://tse1.mm.bing.net/th/id/OIP.1N0IYEfQ6azsDcbe-_YiegHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "precio": 24.99,
+    "plataforma": "SNES",
+    "genero": "Plataformas"
+  },
+  {
+    "id": 13,
+    "titulo": "Metroid (NES)",
+    "descripcion": "Definió el género metroidvania",
+    "imagen": "https://i.pinimg.com/originals/48/9e/a4/489ea4c4438a6ad0bac007a062b01293.jpg",
+    "precio": 9.99,
+    "plataforma": "NES",
+    "genero": "Acción / Metroidvania"
+  },
+  {
+    "id": 14,
+    "titulo": "Star Fox 64",
+    "descripcion": "Uno de los grandes shooters de Nintendo 64",
+    "imagen": "https://tse1.mm.bing.net/th/id/OIP.TwfGuXKTcXCJpaJX7JqAQQHaKJ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "precio": 29.99,
+    "plataforma": "Nintendo 64",
+    "genero": "Shooter"
+  },
+  {
+    "id": 15,
+    "titulo": "Earthbound",
+    "descripcion": "JRPG de culto en SNES",
+    "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/66e0633d-56a3-4d38-aa8a-abfd50eb575d/dg47r2d-ab77fa50-d5c3-4e53-bdcc-1ff0fff8f44f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY2ZTA2MzNkLTU2YTMtNGQzOC1hYThhLWFiZmQ1MGViNTc1ZFwvZGc0N3IyZC1hYjc3ZmE1MC1kNWMzLTRlNTMtYmRjYy0xZmYwZmZmOGY0NGYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7szM2vyDWRsRh_07iaf6Jci89BxDkxepIFTHRKYGx1M",
+    "precio": 39.99,
+    "plataforma": "SNES",
+    "genero": "JRPG"
+  },
+  {
+    "id": 16,
+    "titulo": "Final Fantasy VI",
+    "descripcion": "Uno de los JRPG más influyentes de SNES",
+    "imagen": "https://tse2.mm.bing.net/th/id/OIP.WXiIejao9S31qIE2BzX5lQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "precio": 29.99,
+    "plataforma": "SNES",
+    "genero": "JRPG"
+  },
+  {
+    "id": 17,
+    "titulo": "Kirby Super Star",
+    "descripcion": "Clásico variado y querido de SNES",
+    "imagen": "https://tse1.mm.bing.net/th/id/OIP.-8ugWEtf5fwaAqTY7zLgwAHaJ4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "precio": 24.99,
+    "plataforma": "SNES",
+    "genero": "Plataformas"
+  },
+  {
+    "id": 18,
+    "titulo": "Mario Kart 8 Deluxe",
+    "descripcion": "Uno de los juegos más vendidos de Switch",
+    "imagen": "https://tse2.mm.bing.net/th/id/OIP.2Qze94fgw3Wg5B9Egzbo9AHaML?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "precio": 59.99,
+    "plataforma": "Nintendo Switch",
+    "genero": "Carreras"
+  },
+  {
+    "id": 19,
+    "titulo": "Animal Crossing: New Horizons",
+    "descripcion": "Fenómeno global durante la pandemia",
+    "imagen": "https://tse1.mm.bing.net/th/id/OIP._iwfNYQFJSO0lEUGIg9aYQAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "precio": 59.99,
+    "plataforma": "Nintendo Switch",
+    "genero": "Simulación"
+  },
+  {
+    "id": 20,
+    "titulo": "Metroid Prime",
+    "descripcion": "Uno de los mejores juegos de GameCube",
+    "imagen": "https://tse3.mm.bing.net/th/id/OIP.k4V_oDGV1LLMAWHYUFfvwAHaKb?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "precio": 49.99,
+    "plataforma": "GameCube",
+    "genero": "Acción / Aventura"
+  }
+]
